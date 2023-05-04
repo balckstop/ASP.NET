@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pQxEraEgs3OPqGsiE3pm4sfI54yCsGj9CoGgFV0F9K7REX0EuXXLS1sbspSSQf/5XQqFuZjjunJCtdaRrLJipg==",
+  "success": true,
+  "projectFilePath": "/home/led/Lab 2/HyperMart/HyperMart.csproj",
+  "expectedPackageFiles": [
+    "/home/led/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
